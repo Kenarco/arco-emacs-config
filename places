@@ -1,0 +1,11 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/home/kens/.emacs.d/"
+  (dired-filename . "/home/kens/.emacs.d/.gitignore"))
+ ("/home/kens/.emacs.d/.gitignore" . 34)
+ ("/home/kens/org/"
+  (dired-filename . "/home/kens/org/tasks.org"))
+ ("/home/kens/org/tasks.org" . 74)
+ ("/home/kens/"
+  (dired-filename . "/home/kens/.emacs.d"))
+ ("/home/kens/.emacs.d/init.el" . 1107)
+ ("/home/kens/.zshrc" . 3900))
